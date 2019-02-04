@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: The Software Translation Institute
-  location: Location
+  location: Upcoming
   social: Social Media
   credits: Notice
 
@@ -42,7 +42,7 @@ social:
   - title: twitter
     url: http://twitter.com/softwaretransl1
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/software-localization
+    url: http://stackoverflow.com/questions/tagged/localization
 
 # Postal address (add as many lines as necessary)
 address:
