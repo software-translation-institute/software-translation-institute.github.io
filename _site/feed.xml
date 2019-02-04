@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2019-02-04T15:22:53+01:00</updated>
+  <id>http://localhost:4000/</id>
+
+  
+    <title type="html">Software Translation Institute</title>
+  
+
+  
+    <subtitle>Our aim is to provide an overview of the state of localization and internationalization technology and workflows with a focus on software development.</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Cloud Tms</title>
+      <link href="http://localhost:4000/tms-cat-software/2019/01/28/cloud-tms/" rel="alternate" type="text/html" title="Cloud Tms" />
+      <published>2019-01-28T00:00:00+01:00</published>
+      <updated>2019-01-28T00:00:00+01:00</updated>
+      <id>http://localhost:4000/tms-cat-software/2019/01/28/cloud-tms</id>
+      <content type="html" xml:base="http://localhost:4000/tms-cat-software/2019/01/28/cloud-tms/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="tms-cat-software" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Process Benchmark</title>
+      <link href="http://localhost:4000/process/2018/09/03/process-benchmark/" rel="alternate" type="text/html" title="Process Benchmark" />
+      <published>2018-09-03T00:00:00+02:00</published>
+      <updated>2018-09-03T00:00:00+02:00</updated>
+      <id>http://localhost:4000/process/2018/09/03/process-benchmark</id>
+      <content type="html" xml:base="http://localhost:4000/process/2018/09/03/process-benchmark/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="process" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Format Usage</title>
+      <link href="http://localhost:4000/software-localization/2018/06/23/format-usage/" rel="alternate" type="text/html" title="Format Usage" />
+      <published>2018-06-23T00:00:00+02:00</published>
+      <updated>2018-06-23T00:00:00+02:00</updated>
+      <id>http://localhost:4000/software-localization/2018/06/23/format-usage</id>
+      <content type="html" xml:base="http://localhost:4000/software-localization/2018/06/23/format-usage/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="software-localization" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

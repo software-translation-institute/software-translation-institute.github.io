@@ -1,0 +1,10 @@
+---
+layout: post
+date: 2019-01-28
+img: cloud-tms.png
+alt: Cloud TMS/CAT Report
+project-date: January 2019
+category: tms-cat-software
+description:  A report on the usage of different software for translation management and computer assisted translation and their cloud adoption.
+
+---
